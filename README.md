@@ -280,4 +280,4 @@ Para dúvidas, sugestões ou colaborações:
 
 ---
 
-*Documentação atualizada em: Agosto 2025*
+*Documentação atualizada em: Dezembro 2025*
